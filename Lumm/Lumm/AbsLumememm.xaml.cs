@@ -148,7 +148,7 @@ namespace Lumm
                 );
             absoluteLayout.Children.Add(
                 btn2,
-                new Point(280, 500)
+                new Point(190, 500)
                 );
             absoluteLayout.Children.Add(
                 lbl,
